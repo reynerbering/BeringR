@@ -1,5 +1,5 @@
-<!doctypehtml>
-<body bgcolor="orange">
+<!doctype html>
+<bodybgcolor="orange">
 <html>
 	<head>
 		<title>
