@@ -23,7 +23,7 @@
 				<p><h4>GS: SACS</h4></p>
 			</article>
 			<aside>
-				<p><h3><a href="image2.html"> IMAGE 2 </a></h3><br></p>
+				<p></p>
 			</aside>
 		</center>
 		</main>
