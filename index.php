@@ -13,7 +13,7 @@
     	<p><em>Knowledge comes with power!</em></p>
     </center>
   	</header>
-	<body>
+<body>
 		<main>
 		<center>
 			<article>
